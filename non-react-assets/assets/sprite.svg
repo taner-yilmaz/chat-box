@@ -1,0 +1,159 @@
+<svg width="0" height="0" class="hidden">
+
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="icon-arrow-down">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g stroke="#5F6B76" stroke-width="1.8">
+              <g>
+                  <g>
+                      <path d="M19.779 8.218l-7.801 7.564M4.256 8.218l7.663 7.564" transform="translate(-1245 -395) translate(825 351) translate(420 44)"/>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 16" id="icon-bug">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g stroke="#5F6B76" stroke-width="1.714">
+              <g>
+                  <g>
+                      <g>
+                          <g>
+                              <g>
+                                  <path d="M2 6.667h0c-1.105 0-2-.896-2-2M2 9.333h0c-1.105 0-2 .896-2 2M8.667 6.667h0c1.104 0 2-.896 2-2M8.667 9.333h0c1.104 0 2 .896 2 2M3.333 0L5.333 2 7.333 0M6 12H4.667C3.194 12 2 10.806 2 9.333V4.667C2 3.194 3.194 2 4.667 2H6c1.473 0 2.667 1.194 2.667 2.667v4.666C8.667 10.806 7.473 12 6 12zM2 6L8.667 6M5.333 6L5.333 12" transform="translate(-1236 -384) translate(1206 355) translate(24 20) translate(6.99 3) translate(0 6) translate(2.667 2)"/>
+                              </g>
+                          </g>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" id="icon-close">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g stroke="#5F6B76" stroke-width="2.526">
+              <g>
+                  <g>
+                      <g>
+                          <path d="M0 0l12 12M0 12L12 0" transform="translate(-834 -303) translate(594 275) translate(240 28) translate(6 6)"/>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="icon-download">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g stroke="#5F6B76" stroke-width="1.714">
+              <g>
+                  <g>
+                      <g>
+                          <g>
+                              <g>
+                                  <path d="M0 10.667L12 10.667M2 4l3.061 3.547c.521.604 1.366.604 1.886-.001L10 4M6 0L6 8" transform="translate(-1236 -461) translate(1206 355) translate(24 97) translate(6 3) translate(0 6) translate(2 2)"/>
+                              </g>
+                          </g>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" id="icon-menu">
+      <g fill="none" fill-rule="evenodd">
+          <g fill="#5F6B76">
+              <g>
+                  <g>
+                      <g>
+                          <path d="M4 2c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zM11 2c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zM18 2c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2z" transform="translate(-1197 -396) translate(825 351) rotate(90 175.5 220.5) translate(2 10)"/>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="icon-refresh">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g stroke="#5F6B76" stroke-width="1.805">
+              <g>
+                  <g>
+                      <g>
+                          <path d="M1.8 3.6C3.44 1.411 6.06 0 9 0c4.97 0 9 4.031 9 9 0 4.97-4.03 9-9 9s-9-4.03-9-9" transform="translate(-1149 -395) translate(825 351) translate(324 44) translate(3 3)"/>
+                          <path d="M5 4H3c-1.104 0-2-.896-2-2V0" transform="translate(-1149 -395) translate(825 351) translate(324 44) translate(3 3)"/>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="icon-settings">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g stroke="#5F6B76" stroke-width="1.714">
+              <g>
+                  <g>
+                      <g>
+                          <g>
+                              <g>
+                                  <path d="M10.78 8.768v.007l.141.14c.558.554.56 1.457.004 2.013-.555.554-1.455.554-2.01 0l-.147-.148c-.299.164-.619.292-.946.392v.207c0 .785-.636 1.421-1.42 1.421h-.003c-.785 0-1.421-.636-1.421-1.42v-.208c-.327-.1-.647-.228-.946-.392l-.147.148c-.556.554-1.455.554-2.01 0-.556-.556-.554-1.459.003-2.013l.142-.14v-.007.007-.007c-.164-.299-.292-.619-.392-.946h-.207C.636 7.822 0 7.186 0 6.402v-.003c0-.785.636-1.421 1.42-1.421h.208c.1-.327.228-.647.392-.946l-.148-.147c-.555-.555-.555-1.455 0-2.01.556-.556 1.458-.554 2.013.004l.14.14h.007-.007.007c.299-.163.619-.291.946-.39V1.42C4.978.636 5.614 0 6.398 0h.003c.785 0 1.421.636 1.421 1.42v.208c.327.1.647.228.946.392h.007-.007.007l.14-.141c.554-.558 1.457-.56 2.013-.004.554.555.554 1.455 0 2.01l-.148.147c.163.299.292.619.392.946h.207c.785 0 1.421.636 1.421 1.42v.003c0 .785-.636 1.421-1.42 1.421h-.208c-.1.327-.229.647-.392.946v.007" transform="translate(-1236 -420) translate(1206 355) translate(24 56) translate(6 3) translate(0 6) translate(1.333 1.333)"/>
+                                  <path d="M8.533 6.4c0 1.178-.955 2.133-2.133 2.133S4.267 7.578 4.267 6.4 5.222 4.267 6.4 4.267s2.133.955 2.133 2.133z" transform="translate(-1236 -420) translate(1206 355) translate(24 56) translate(6 3) translate(0 6) translate(1.333 1.333)"/>
+                              </g>
+                          </g>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="icon-send">
+      <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" opacity=".2">
+          <g stroke="#5F6B76" stroke-width="1.805">
+              <g>
+                  <g>
+                      <g>
+                          <path d="M11.988 18.919l-.458-6.449-6.45-.458c-1.248-.139-1.49-1.852-.327-2.33L18.32 4.094c.998-.41 1.996.587 1.585 1.585L14.32 19.247c-.479 1.163-2.193.92-2.331-.328z" transform="translate(-1241 -946) translate(825 351) translate(0 568) translate(416 27)"/>
+                      </g>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </symbol>
+
+
+    <symbol xmlns="http://www.w3.org/2000/svg" id="icon-show">
+        <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+            <g stroke="#FFF" stroke-width="5.443">
+                <g>
+                    <g>
+                        <g>
+                            <path d="M0 0l18.667 18.667M0 18.667L18.667 0" transform="translate(-1354 -948) translate(1345 939) translate(9.333 9.333) translate(9.333 9.333)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </symbol>
+
+    <symbol xmlns="http://www.w3.org/2000/svg"  id="icon-hide">
+        <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+            <g stroke="#FFF" stroke-width="2.722">
+                <g>
+                    <g>
+                        <g>
+                            <path d="M11.433 6.533V3.267C11.433 1.463 12.896 0 14.7 0h11.433C27.936 0 29.4 1.463 29.4 3.267v15.515c0 .91-1.261 1.138-1.581.287L25.48 15.99c-.619-.813-1.58-1.29-2.602-1.29H19.6" transform="translate(-1355 -949) translate(1346 940) translate(9.333 9.333) translate(4.667 4.667)"/>
+                            <path d="M6.52 24.5c-1.02 0-1.983.477-2.602 1.29l-2.337 3.08c-.32.85-1.581.621-1.581-.288V9.8c0-1.803 1.462-3.267 3.267-3.267h13.066c1.804 0 3.267 1.464 3.267 3.267v11.433c0 1.804-1.463 3.267-3.267 3.267H6.52zM6.533 13.067L13.066 13.067M6.533 17.967L13.066 17.967" transform="translate(-1355 -949) translate(1346 940) translate(9.333 9.333) translate(4.667 4.667)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </symbol>
+
+</svg>
+
