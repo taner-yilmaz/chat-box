@@ -1,14 +1,16 @@
 {
   "name": "chatbox-lib",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "./chatbox-lib.umd.js",
   "module": "./chatbox-lib.esm.js",
   "typings": "./index.d.ts",
   "dependencies": {
+    
+  },
+  "peerDependencies": {
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
-  "peerDependencies": {},
   "repository": {
 		"type": "git",
 		"url": "git+https://github.com/taner-yilmaz/chat-box.git"
